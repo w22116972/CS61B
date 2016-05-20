@@ -1,0 +1,3 @@
+C-x h M-x sort-lines
+
+M-x : alt
